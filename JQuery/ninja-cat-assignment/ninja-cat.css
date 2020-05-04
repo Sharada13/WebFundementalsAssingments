@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    vertical-align: top;
+}
+.wrapper{
+ margin:0 250px;   
+ width:500px;
+ height: 450px;
+ background-color: yellow;
+ background-image: linear-gradient(yellow, white);
+}
+img{
+    display:block;
+   align-content: center;
+   margin:0 150px 5px 150px;
+}

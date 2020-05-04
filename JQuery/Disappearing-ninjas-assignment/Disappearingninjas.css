@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+}
+#wrapper{
+    width:1020px;
+    background-color: rgb(138, 106, 117);
+    background-image: linear-gradient(rgb(54, 35, 42),#917991);
+}
+h2{
+    text-align: center;
+    margin:20px;
+    color:rgb(231, 224, 224);
+}
+
+img{
+    padding:10px;
+    margin:20px 5px;
+}
+button{
+    padding: 5px 10px;
+    background-color: rgb(162, 226, 194);
+    border-radius: 10px;
+    margin:30px;
+}
